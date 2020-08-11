@@ -1,0 +1,28 @@
+body{
+	background-color: grey;
+}
+.my-texts{
+	text-align: center;
+	color: white;
+	opacity: 0.8;
+}
+.my-text1{
+		    align-items: center;
+		    background-color: rgb(112,128,144); 
+	   		top: 50%;
+ 			left: 50%;
+            border: 3px solid grey; 
+            color: grey; 
+            padding: 5px 10px; 
+            text-align: center; 
+            display: inline-block; 
+            font-size: 20px; 
+            margin: 20px 40px; 
+            cursor: pointer; 
+             float: none;
+  
+}
+.my-text1 a{
+	align-items: center;
+}
+	
